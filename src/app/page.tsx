@@ -12,7 +12,7 @@ export default function Home() {
           priority
         />
       </div>
-      <footer className="footer-container">
+      <footer className="footer-container high-position-in-mobile">
         <div style={{ display: "flex", alignItems: "center", gap: "32px" }}>
           <a
             href="https://www.facebook.com/espresxobar?mibextid=LQQJ4d"
