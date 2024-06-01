@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   overflow: hidden;
+  background: #f0f0f0;
 }
 body {
   margin: 0;
